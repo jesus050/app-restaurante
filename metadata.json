@@ -1,0 +1,6 @@
+{
+  "name": "Saboré",
+  "description": "Saboré Restaurante is a premium dining companion app featuring intelligent assistant chat, table booking, menu viewing, and reservation tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
